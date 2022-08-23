@@ -6,3 +6,6 @@ This repository contains JSON files with a list of all the Grama Niladhari Divis
 
 1. `province-district-gn-divisions.json` - Nested Array with Province, District and GN Division
 2. `district-gn-divisions.json` - Nested Array with District and GN Division
+
+## Credits
+Inspired from Repo - https://github.com/Chamindu-Kasun/Srilankan-GN-Divisions-Details
